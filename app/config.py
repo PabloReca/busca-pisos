@@ -56,6 +56,9 @@ TEMPORARY_RENTAL_KEYWORDS = [
     "minimo",
     "mínimo",
     "noches",
+    "alquila habitación",
+    "piso compartido",
+
 ]
 
 # Paths
