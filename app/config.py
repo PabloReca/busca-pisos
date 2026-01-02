@@ -39,6 +39,7 @@ TEMPORARY_RENTAL_KEYWORDS = [
     "vacacional",
     "vacaciones",
     "temporada",
+    "temporal",
     "escolar",
     "enero",
     "febrero",
